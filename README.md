@@ -1,6 +1,6 @@
 # deploy
 
-[![License](https://img.shields.io/github/license/devops-metalflow/demo.svg)](https://github.com/devops-metalflow/demo/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/devops-metalflow/deploy.svg)](https://github.com/devops-metalflow/deploy/blob/main/LICENSE)
 [![Gitter chat](https://badges.gitter.im/craftslab/devops-metalflow.png)](https://gitter.im/craftslab/devops-metalflow)
 
 

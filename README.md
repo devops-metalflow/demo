@@ -1,6 +1,6 @@
-# deploy
+# demo
 
-[![License](https://img.shields.io/github/license/devops-metalflow/deploy.svg)](https://github.com/devops-metalflow/deploy/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/devops-metalflow/demo.svg)](https://github.com/devops-metalflow/demo/blob/main/LICENSE)
 [![Gitter chat](https://badges.gitter.im/craftslab/devops-metalflow.png)](https://gitter.im/craftslab/devops-metalflow)
 
 
@@ -15,7 +15,7 @@
 
 ## Introduction
 
-*deploy* is the deployment of [devops-metalflow](https://github.com/devops-metalflow).
+*demo* is the demo of [devops-metalflow](https://github.com/devops-metalflow).
 
 
 
@@ -26,4 +26,3 @@ Project License can be found [here](LICENSE).
 
 
 ## Reference
-

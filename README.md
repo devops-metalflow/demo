@@ -15,7 +15,9 @@
 
 ## Introduction
 
-*demo* is the demo of [devops-metalflow](https://github.com/devops-metalflow).
+Demo hosted on Vercel: [demo-metalflow.vercel.app](https://demo-metalflow.vercel.app/)
+
+Demo credentials: admin/123456
 
 
 

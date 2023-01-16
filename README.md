@@ -15,7 +15,7 @@
 
 ## Introduction
 
-Demo hosted on Vercel: [demo-metalflow.vercel.app](https://demo-metalflow.vercel.app/)
+Demo hosted: [metalflow.fly.dev](https://metalflow.fly.dev/)
 
 Demo credentials: admin/123456
 

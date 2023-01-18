@@ -5,17 +5,15 @@
 
 
 
-[![asciicast](https://asciinema.org/a/483195.svg)](https://asciinema.org/a/483195)
+![demo](demo.gif)
 
-> Demo generated with [asciinema](https://github.com/asciinema/asciinema)
->
-> `asciinema rec && asciinema auth`
+> Demo generated with [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
 
 
 
 ## Introduction
 
-Demo hosted: [metalflow.fly.dev](https://metalflow.fly.dev/)
+Demo hosted: [metalweb.vercel.app](https://metalweb.vercel.app/)
 
 Demo credentials: admin/123456
 
